@@ -1,0 +1,2 @@
+rootProject.name = "FirebaseCRUD_18_Laila"
+include ':app'

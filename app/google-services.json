@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "766115759517",
+    "project_id": "fir-crud-18-laila",
+    "storage_bucket": "fir-crud-18-laila.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766115759517:android:9ff615633315ab41879b74",
+        "android_client_info": {
+          "package_name": "com.example.firebasecrud_18_laila"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766115759517-eeiad7kp3089okpt9kkttgch38i90sfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9GCNFF0HxbR866ki9EFT-PzIFSZaXd_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766115759517-eeiad7kp3089okpt9kkttgch38i90sfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
